@@ -1,0 +1,45 @@
+*{
+	margin:0;
+	padding:0;
+}
+form{
+	width:345px;
+  
+  
+  border-radius:10px;
+  -moz-border-radius:10px;
+  -webkit-border-radius:10px;
+  
+  
+  
+ background:rgba(138,221,45,0.6);
+}
+form p{
+	text-align:center;
+	color: #000;
+	font-size:102pt;
+	margin: 10px 10px 1px 10px;
+
+}
+.h1{
+	width:280px;
+	padding: 10px 0px 0px 100px;
+	margin: 0px 10px 10px 10px;
+	color: #000;
+	font-family: arial; 
+}
+.h11{
+	width:280px;
+	padding: 10px 0px 0px 100px;
+	margin: -40px 10px 10px 10px;
+	color: #000;
+	font-family: arial; 
+}
+form li{
+
+	width:280px;
+	padding:0px 10px;
+	margin: 0px 10px 10px 10px;
+	color: #000;
+	font-family: arial; 
+}
